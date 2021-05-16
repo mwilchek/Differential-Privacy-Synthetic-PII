@@ -10,6 +10,9 @@ privacy can create deniability behind identifiable features of individuals.
 ## Dependencies
 - Python (>= 3.8.5)
 - NumPy (1.17.0)
+- SciPy
+- Dython
+- MLxtend
 - Faker
 - Pandas
 - gender_guesser
